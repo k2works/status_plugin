@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = StatusPlugin::VERSION
   s.authors     = ["k2works"]
   s.email       = ["kakimomokuri@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of StatusPlugin."
-  s.description = "TODO: Description of StatusPlugin."
+  s.homepage    = ""
+  s.summary     = "SatusPlugin."
+  s.description = "Description of StatusPlugin."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
