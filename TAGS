@@ -1,0 +1,38 @@
+
+app/controllers/status_controller.rb,121
+class StatusController < ApplicationControllerStatusController1,0
+   def revisionrevision2,0
+   def dstatdstat13,0
+
+app/helpers/status_helper.rb,37
+module StatusHelperStatusHelper1,0
+
+lib/status_plugin/engine.rb,81
+module StatusPluginStatusPlugin1,0
+  class Engine < ::Rails::EngineEngine2,0
+
+lib/status_plugin/version.rb,69
+module StatusPluginStatusPlugin1,0
+  VERSION = "0.0.1"VERSION2,0
+
+lib/status_plugin.rb,37
+module StatusPluginStatusPlugin3,0
+
+test/controllers/status_controller_test.rb,81
+class StatusControllerTest < ActionController::TestCaseStatusControllerTest3,0
+
+test/dummy/app/controllers/application_controller.rb,79
+class ApplicationController < ActionController::BaseApplicationController1,0
+
+test/dummy/app/helpers/application_helper.rb,47
+module ApplicationHelperApplicationHelper1,0
+
+test/dummy/config/application.rb,80
+module DummyDummy8,0
+  class Application < Rails::ApplicationApplication9,0
+
+test/integration/navigation_test.rb,74
+class NavigationTest < ActionDispatch::IntegrationTestNavigationTest3,0
+
+test/status_plugin_test.rb,70
+class StatusPluginTest < ActiveSupport::TestCaseStatusPluginTest3,0

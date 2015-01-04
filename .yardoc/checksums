@@ -1,0 +1,5 @@
+lib/status_plugin.rb 40914263bef86fa42c7067112d7d28dee572fd34
+lib/status_plugin/engine.rb 5cc4ce3a3bba2613dcd35a65bcc99a5737e0f5a9
+lib/status_plugin/version.rb 76d5cb5114e0a11cf64523623fd03c420fcf05f6
+app/helpers/status_helper.rb a01c2ee5ccd502dd9b7d72c2a0519bab0e3e7419
+app/controllers/status_controller.rb 9ab6469415b6aa7ddd571988c04cbed16acd4138
